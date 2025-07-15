@@ -47,6 +47,7 @@ Increased Engagement: Users are more likely to stay engaged if the platform prov
 Business Growth: For streaming services, a better recommendation system leads to longer user retention and increased subscriptions.
 
 Technologies Used:
+
 Machine Learning Algorithms (e.g., KNN, Matrix Factorization, Neural Networks).
 
 Natural Language Processing (NLP) for content-based filtering (e.g., understanding movie plot descriptions).
