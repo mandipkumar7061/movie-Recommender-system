@@ -39,6 +39,7 @@ Cold Start Problem: New users or new movies lack enough data, making it hard to 
 Sparsity: Not all users rate all movies, creating a sparse matrix that makes it difficult to find patterns.
 
 Benefits:
+
 Personalized Experience: Tailors movie suggestions to individual tastes, helping users discover new content.
 
 Increased Engagement: Users are more likely to stay engaged if the platform provides relevant content that matches their preferences.
